@@ -41,5 +41,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To load the photos from user's albums for the purpose of editing (because this app is about photo editing)</string> 
 </dict>
 </plist>
